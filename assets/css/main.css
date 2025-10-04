@@ -1957,7 +1957,8 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
-}
+
+
 
 .wapp-chat-btn {
     position: fixed;
@@ -1985,4 +1986,5 @@ section,
     width: 24px;
     height: 24px;
     margin-right: 8px;
+}
 }
