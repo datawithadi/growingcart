@@ -1,6 +1,7 @@
 .wapp-chat-btn {
     position: fixed;
-    bottom: 1.5em; right: 1.5em;
+    bottom: 1.0em; 
+    right: 4.5em;
     background-color: #25d366;
     color: #ffffff;
     font-family: sans-serif;
